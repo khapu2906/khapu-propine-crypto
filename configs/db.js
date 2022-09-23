@@ -1,0 +1,4 @@
+
+module.exports = {
+	pathDB: './../db'
+}
